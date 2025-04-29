@@ -19,7 +19,7 @@ const monadTestnet = defineChain({
   name: 'Monad Testnet',
   nativeCurrency: { name: 'MON', symbol: 'MON', decimals: 18 },
   rpcUrls: {
-    default: { http: ['https://spring-crimson-dawn.monad-testnet.quiknode.pro/296490a26ff50847f86f9138b97e6545aade654a/] },
+    default: { http: ['https://spring-crimson-dawn.monad-testnet.quiknode.pro/296490a26ff50847f86f9138b97e6545aade654a/'] },
   },
 });
 
