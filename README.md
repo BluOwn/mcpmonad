@@ -1,6 +1,8 @@
 # mcpmonad
 
-npm install    
-npm run build
-node build/index.js
+npm install    </p>
+npm run build </p>
+node build/index.js </p>
+
+.env add private key 0xyourprivatekey
 
